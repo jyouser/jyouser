@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jyouser
-- 👀 I’m interested in learning..
-- 🌱 I’m currently learning aws&devops..
+- 👋 Hi, I’m @jyothsna
+- 👀 I’m interested in upgrading myself to increase my knowledge..
+- 🌱 I’m currently learning Data Scientist and Machine Learning..
 - 💞️ I’m looking to collaborate on teams...
 - 📫 How to reach me through email...
 
